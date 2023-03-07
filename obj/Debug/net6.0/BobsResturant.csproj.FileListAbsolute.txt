@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\obj\Debug\net6.0\BobsResturant.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\obj\Debug\net6.0\BobsResturant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\obj\Debug\net6.0\BobsResturant.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\obj\Debug\net6.0\BobsResturant.AssemblyInfo.cs
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\obj\Debug\net6.0\BobsResturant.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\bin\Debug\net6.0\BobsResturant.exe
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\bin\Debug\net6.0\BobsResturant.deps.json
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\bin\Debug\net6.0\BobsResturant.runtimeconfig.json
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\bin\Debug\net6.0\BobsResturant.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\bin\Debug\net6.0\BobsResturant.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\obj\Debug\net6.0\BobsResturant.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\obj\Debug\net6.0\refint\BobsResturant.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\obj\Debug\net6.0\BobsResturant.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\obj\Debug\net6.0\BobsResturant.genruntimeconfig.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\BobsResturant\obj\Debug\net6.0\ref\BobsResturant.dll
